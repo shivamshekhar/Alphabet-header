@@ -1,4 +1,4 @@
-This is an improved version of my previous header alphabet.h
+This is an improved version of my previous header alphabet.h(also included)
 
 Features(Previously):
 -Print colorful and large text on console window.
